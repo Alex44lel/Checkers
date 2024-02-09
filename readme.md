@@ -1,7 +1,7 @@
 
 # NOTE:
 
-All the logic has been written by me, i have used ChatGPT to write comments, docstrings and the readme.
+All the logic has been written by me, i have used chatgpt to write comments, docstrings and the readme.
 
 The most important part is the movement validation implementation, which is the same problem as the one presented in the interview. For this I have also recursively check for positions in which a player eats multiple pieces.
 
