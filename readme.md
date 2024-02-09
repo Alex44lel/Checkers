@@ -1,6 +1,9 @@
 
 # NOTE:
 
+<b><a href="https://drive.google.com/file/d/1Y2ifRKveVYCvQF9eEwC6X-hVCwHutncY/view" target="_blank">Demo Video</a></b>
+
+
 The implementation of the full game of checkers has taken me about 7 hours of work. I have tried to code everything as I would do it in a normal working day, following best practices.
 
 The most important part is the movement validation implementation (validate_move) (line 262 of checkers_logic.py), which is the same problem as the one presented in the interview. For this, I have also recursively checked for positions in which a player eats multiple pieces.
