@@ -23,7 +23,7 @@ The Checkers game project is a simple, console-based implementation of the class
 
 ## How to Run
 
-To start the game, ensure you have Python installed on your system, navigate to the project directory in your terminal, and run:
+To start the game:
 
 ```bash
 python main.py
