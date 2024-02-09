@@ -1,9 +1,11 @@
 
 # NOTE:
 
-All the logic has been written by me, i have used chatgpt to write comments, docstrings and the readme.
+The implementation of the full game of checkers has taken me about 7 hours of work. I have tried to code everything as I would do it in a normal working day, following best practices.
 
-The most important part is the movement validation implementation, which is the same problem as the one presented in the interview. For this I have also recursively check for positions in which a player eats multiple pieces.
+The most important part is the movement validation implementation, which is the same problem as the one presented in the interview. For this, I have also recursively checked for positions in which a player eats multiple pieces.
+
+All the logic has been written by me, I have used chatgpt to write comments, docstrings, and the readme.
 
 # Checkers Game Project
 
