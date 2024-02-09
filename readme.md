@@ -30,3 +30,7 @@ To start the game:
 
 ```bash
 python main.py
+```
+<img src="https://github.com/Alex44lel/Checkers/assets/66825022/894c82e6-ff98-4d30-bd84-f72f80f3d45b" width="350" height="300">
+
+
